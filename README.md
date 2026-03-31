@@ -19,24 +19,24 @@ Ano	Versão	Destaque
 2021	Windows 11	Copilot IA + TPM 2.0
 
 ## Vantagens
-Interface intuitiva
+- Interface intuitiva
 
-Amplo suporte de hardware
+- Amplo suporte de hardware
 
-Ferramentas nativas (Defender, DirectX 12)
+- Ferramentas nativas (Defender, DirectX 12)
 
 ## Limitações
-Código fechado (pago)
+- Código fechado (pago)
 
-Fragmentação de versões
+- Fragmentação de versões
 
-Ecossistema dependente da Microsoft
+- Ecossistema dependente da Microsoft
 
 ## Principais Aprendizados
-Erros ensinam: O fracasso do Vista levou ao acerto do Windows 7
+- Erros ensinam: O fracasso do Vista levou ao acerto do Windows 7
 
-Arquitetura importa: Kernel híbrido equilibra performance e segurança
+- Arquitetura importa: Kernel híbrido equilibra performance e segurança
 
-Dominância não é eterna: Windows Phone perdeu para Android/iOS
+- Dominância não é eterna: Windows Phone perdeu para Android/iOS
 
-Casos reais: Usado em hospitais (IoT), gamers (DirectX) e até na NASA
+- Casos reais: Usado em hospitais (IoT), gamers (DirectX) e até na NASA
