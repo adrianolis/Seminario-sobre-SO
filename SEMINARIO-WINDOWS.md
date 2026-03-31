@@ -26,3 +26,7 @@
 - https://en.wikipedia.org/wiki/Microsoft_Windows
 - https://en.wikipedia.org/wiki/History_of_Microsoft
 - https://www.britannica.com/technology/Microsoft-Windows
+- StatCounter (dados históricos)
+- NetMarketShare (dados históricos)
+- Microsoft (relatórios e documentação oficial)
+- Gartner / IDC (relatórios de mercado)
