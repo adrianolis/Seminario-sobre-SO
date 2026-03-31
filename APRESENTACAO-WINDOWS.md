@@ -2,11 +2,11 @@
 
 ## Integrantes
 
-- [Adriano Lisarb Guzmán Moura Batista]
-- [Erica Pereira da Silva]
-- [João Pedro Pimentel de Freitas]
-- [Christian Calebe Ferreira Campos Silva]
-- [Ana Beatriz de Almeida Ramos]
+- Adriano Lisarb Guzmán Moura Batista
+- Erica Pereira da Silva
+- João Pedro Pimentel de Freitas
+- Christian Calebe Ferreira Campos Silva
+- Ana Beatriz de Almeida Ramos
 
 ---
 
