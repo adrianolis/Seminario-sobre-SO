@@ -1,12 +1,12 @@
 # Windows – Resumo Individual
 ## Destaques do SO
-Maior SO para desktops (~73% do mercado global)
+- Maior SO para desktops (~73% do mercado global)
 
-Fundação: Microsoft por Bill Gates e Paul Allen (1975)
+- Fundação: Microsoft por Bill Gates e Paul Allen (1975)
 
-Kernel: Híbrido (monolítico + micronúcleo) → desempenho + segurança
+- Kernel: Híbrido (monolítico + micronúcleo) → desempenho + segurança
 
-Segurança: UAC, isolamento de processos, permissões NTFS
+- Segurança: UAC, isolamento de processos, permissões NTFS
 
 ## Marcos Históricos
 Ano	Versão	Destaque
