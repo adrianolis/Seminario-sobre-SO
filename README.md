@@ -1,4 +1,4 @@
-#Windows – Resumo Técnico
+# Windows – Resumo Técnico
 🖥️ Destaques do SO
 Maior SO para desktops (~73% do mercado global)
 
