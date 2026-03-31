@@ -12,7 +12,7 @@
 
 ## Anexo
 
-[📄 Clique aqui para acessar o PDF do seminário](https://github.com/adrianolis/Seminario-sobre-SO/blob/main/SLIDE-SEMINARIO.pdf)
+[ Clique aqui para acessar o PDF do seminário](https://github.com/adrianolis/Seminario-sobre-SO/blob/main/SLIDE-SEMINARIO.pdf)
 
 ---
 
