@@ -1,5 +1,5 @@
 # Windows – Resumo Técnico
-🖥️ Destaques do SO
+## Destaques do SO
 Maior SO para desktops (~73% do mercado global)
 
 Fundação: Microsoft por Bill Gates e Paul Allen (1975)
@@ -8,7 +8,7 @@ Kernel: Híbrido (monolítico + micronúcleo) → desempenho + segurança
 
 Segurança: UAC, isolamento de processos, permissões NTFS
 
-📜 Marcos Históricos
+## Marcos Históricos
 Ano	Versão	Destaque
 1985	Windows 1.0	Primeira GUI da Microsoft
 1990	Windows 3.0	10M cópias em 18 meses
@@ -17,3 +17,26 @@ Ano	Versão	Destaque
 2007	Windows Vista	Fracasso (pesado e instável)
 2009	Windows 7	Redenção (240M cópias)
 2021	Windows 11	Copilot IA + TPM 2.0
+
+## Vantagens
+Interface intuitiva
+
+Amplo suporte de hardware
+
+Ferramentas nativas (Defender, DirectX 12)
+
+## Limitações
+Código fechado (pago)
+
+Fragmentação de versões
+
+Ecossistema dependente da Microsoft
+
+## Principais Aprendizados
+Erros ensinam: O fracasso do Vista levou ao acerto do Windows 7
+
+Arquitetura importa: Kernel híbrido equilibra performance e segurança
+
+Dominância não é eterna: Windows Phone perdeu para Android/iOS
+
+Casos reais: Usado em hospitais (IoT), gamers (DirectX) e até na NASA
